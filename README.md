@@ -42,5 +42,5 @@ The Student Performance Analysis is R-based application that uses machine learni
 3. Top Influential Factors: G1, G2, absences, study time, and family support.
 
 ## Contributors
-Diksha Gupta
-Mayank Anand
+- Diksha Gupta
+- Mayank Anand
